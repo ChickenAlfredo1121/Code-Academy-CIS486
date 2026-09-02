@@ -4,7 +4,7 @@ This repo holds the screenshots of all completed code academy assignments.
 ## Node.js
 
 ### Learn Node.js
-<img width="1006" height="398" alt="image" src="https://github.com/user-attachments/assets/90def6cc-e98a-4714-9c40-87a5e412ffa0" />
+<img width="1151" height="455" alt="junior-codeacademy-node" src="https://github.com/user-attachments/assets/ea64a262-72b2-467d-a483-4d97258a38d6" />
 
 ### Learn Node.js: Fundementals
 <img width="1011" height="397" alt="image" src="https://github.com/user-attachments/assets/805c75b3-1a9a-4b41-ad3d-080b7d4f4ab1" />
